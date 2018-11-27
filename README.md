@@ -30,4 +30,4 @@ A classificação das imagens é feita por meio do arquivo `src/evaluate_images.
 
 Exemplo de uso:
 
-    python evaluate_images.py --images_dir ../test/imagens/ --details_dir ../test/images_filtradas/
+    python evaluate_images.py --images_dir ../test/imagens/ --details_dir ../test/imagens_filtradas/
